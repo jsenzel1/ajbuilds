@@ -7,8 +7,6 @@
 
 *week 1 Deadline - FEB 3 2022*
 
----
-
 Aaron's Build Link:
 
 Jonah's Build Link:
