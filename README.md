@@ -5,6 +5,10 @@
 #### Jonah is Currently Working on: a Guide to Divination Reality Synthesis 
 ---
 
+*week 3 deadline - FEB 17 2022*
+
+aaron ->-> [week 3; JAM13 build, devlog](https://acgaudette.itch.io/jam13-alpha/devlog/348973/knowledge-sharing-cooperation-and-the-five-senses)
+
 *week 2 Deadline - FEB 10 2022*
 
 aaron >> [week 2 \\\ JAM13 build, devlog](https://acgaudette.itch.io/jam13-alpha/devlog/345890/road-to-gdc-week-2)
