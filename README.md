@@ -10,36 +10,26 @@
 
 ## *week 5 deadline - MAR 3 2022*
 aaron : : [week 5: JAM13 build + devlog](https://acgaudette.itch.io/jam13-alpha/devlog/354347/relationship-networks-prisoner-dilemmas)
-
-# 
-# 
-
-#
-#
+jonah ->-> [Week 3 PDF](./draft5.pdf)
 
 ## *week 4 deadline - FEB 24 2022*
 aaron ->-> [took a week off from jam13! did a jam game on thursday instead](https://acgaudette.itch.io/jam31)
 
-# 
-# 
+jonah ->-> [Week 3 PDF](./draft4.pdf)
 
-#
-#
 
 ## *week 3 deadline - FEB 17 2022*
 aaron ->-> [week 3; JAM13 build, devlog](https://acgaudette.itch.io/jam13-alpha/devlog/348973/knowledge-sharing-cooperation-and-the-five-senses)
+
 jonah ->-> [Week 3 PDF](./draft3.pdf)
 
-# 
-# 
 
 ## *week 2 Deadline - FEB 10 2022*
 
 aaron >> [week 2 \\\ JAM13 build, devlog](https://acgaudette.itch.io/jam13-alpha/devlog/345890/road-to-gdc-week-2)
+
 jonah >> [Week 2 PDF](./draft2.pdf)
 
-# 
-# 
 
 ## *week 1 Deadline - FEB 3 2022*
 
